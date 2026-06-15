@@ -1,5 +1,13 @@
 # Tugas Praktik 2 - Aplikasi Restoran Sederhana
 
+## Identitas Mahasiswa
+
+* Nama : Zulhilmi Shodiq
+* NIM : 053343025
+* Mata Kuliah : Pemrograman Berbasis Desktop
+
+---
+
 ## Deskripsi Program
 
 Program ini merupakan aplikasi restoran sederhana berbasis Java yang dibuat untuk memenuhi Tugas Praktik 2 Mata Kuliah Pemrograman Berorientasi Objek.
